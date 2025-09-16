@@ -1,0 +1,57 @@
+
+
+button{
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border: none;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table{
+    background-color:dimgrey;
+}
+
+.op,.equal{
+    background-color: chocolate;
+}
+
+.ac{
+    width: 204px;
+}
+.zero{
+    width: 204px;
+}
+
+.text{
+    height: 50px;
+}
+
+button:hover{
+    background-color:darkgray;
+    cursor: pointer;
+}
+
+.ans{
+    color: white;
+    text-align: right;
+    width:434px;
+    border-radius: 20px 20px 0px 0px;
+    overflow: hidden;
+    height:100px;
+    background-color: rgb(59, 56, 56);
+    font-size: 50px;
+    border: none;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table{
+    padding: 10px;
+    border-radius: 0px 0px 20px 20px;
+    overflow: hidden;
+}
