@@ -10,10 +10,13 @@ This project demonstrates basic DOM manipulation, styling, and event handling in
 - Error handling for invalid expressions
 - Responsive button design with hover effects
 
+
 ## 📂 Project Structure
-├── index.html   # Calculator UI <br>
-├── styles.css   # Styling for calculator <br>
-└── index.js     # Logic and functionality
+```text
+├── index.html   
+├── styles.css   
+└── index.js     
+```
 
 
 
